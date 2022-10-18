@@ -91,6 +91,23 @@ p {
 	color: #B07BAC;
 }
 
+#links {
+	list-style-type: none;
+	font-size: 0.9em;
+	width: 100%;
+	text-align: center;
+	margin-top: 24px;
+
+}
+
+#links a, a[href^=tel] {
+	color: #D9D7DD;
+	text-decoration: none;
+}
+
+#links a:hover {
+	color: #B07BAC;
+}
 
 section {
 	border-top: 1px solid #5BC0BE;
