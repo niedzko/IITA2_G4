@@ -175,7 +175,8 @@ section:last-child {
 }
 
 .sectionContent li {
-	color: #5F7367;
+	margin-left: 20px;
+		color: #5F7367;
 }
 
 
