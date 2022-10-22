@@ -139,7 +139,7 @@ section:last-child {
 }
 
 .sectionTitle h1 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
 	font-style: bold;
 	font-size: 1.5em;
 	color: #5F7367;
@@ -150,14 +150,16 @@ section:last-child {
 }
 
 .sectionContent h2 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
 	font-size: 1.5em;
 	color: #5F7367;
 	margin-bottom: -2px;
 }
 
+
+
 .sectionContent h3 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
 	font-style: italic;
 	font-size: 1.1em;
 	color: #5F7367;
@@ -166,6 +168,10 @@ section:last-child {
 
 .sectionContent img {
 	border: 2px solid #50AAA9;
+}
+
+.sectionContent ul {
+	color: #5F7367;
 }
 
 .subDetails {
