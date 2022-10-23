@@ -96,7 +96,6 @@ p {
 }
 
 
-
 #links {
 	list-style-type: none;
 	font-size: 0.9em;
@@ -105,6 +104,23 @@ p {
 	margin-top: 24px;
 
 }
+
+table th {
+	border: 2px solid;
+	color: #5F7367;
+	padding: 3px;
+	font: bold;
+	align: left;
+}
+
+table td {
+	border: 2px solid;
+	color: #5F7367;
+		padding: 3px;
+	font: bold;
+	align: left;
+}
+
 
 #links a, a[href^=tel] {
 	color: #D9D7DD;
@@ -151,7 +167,7 @@ section:last-child {
 
 .sectionContent h2 {
 	font-family: 'Lato', Helvetica, Arial, sans-serif;
-	font-size: 1.5em;
+	font-size: 1.1em;
 	color: #5F7367;
 	margin-bottom: -2px;
 }
@@ -160,10 +176,10 @@ section:last-child {
 
 .sectionContent h3 {
 	font-family: 'Lato', Helvetica, Arial, sans-serif;
-	font-style: italic;
+
 	font-size: 1.1em;
 	color: #5F7367;
-	margin-bottom: -2px;
+	margin-bottom: -1px;
 }
 
 .sectionContent img {
