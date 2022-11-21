@@ -61,8 +61,29 @@ p {
 #headshot img {
 	width: 100%;
 	height: auto;
-
 }
+
+#screenshot {
+	width: 30%;
+	float: left;
+	margin-right: 30px;
+}
+
+#screenshot img {
+	width: 100%;
+	height: auto;
+}
+#screenshot1 {
+	width: 30%;
+	float: right;
+	margin-right: 30px;
+}
+
+#screenshot1 img {
+	width: 100%;
+	height: auto;
+}
+
 #name {
 	float: left;
 }
@@ -161,6 +182,20 @@ section:last-child {
 	color: #5F7367;
 }
 
+.homeContent h2 {
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
+	font-size: 1.1em;
+	color: #5F7367;
+	margin-bottom: -2px;
+}
+
+.homeContent h4 {
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
+	font-size: 2em;
+	color: #5F7367;
+	margin-top: 20px;
+	margin-bottom: -2px;
+}
 .sectionTitle img {
 	width: 100%;
 }
@@ -190,12 +225,27 @@ section:last-child {
 	color: #5F7367;
 }
 
+.homeContent ul {
+	margin-left: 30px;
+	color: #5F7367;
+}
+.homeContent li {
+	margin-left: 20px;
+		color: #5F7367;
+}
+.homeContent ol {
+	margin-left: 50px;
+		color: #5F7367;
+}
 .sectionContent li {
 	margin-left: 20px;
 		color: #5F7367;
 }
 
-
+.homeContent li {
+	margin-left: 20px;
+		color: #5F7367;
+}
 
 .subDetails {
 	font-size: 0.8em;
